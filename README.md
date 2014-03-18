@@ -38,8 +38,11 @@ bulk manage your products from a spreadsheet
 Files modified
 ----------------------------------------
 maya/functions.php
+
 maya/woocommerce/single-product/price.php
+
 maya/woocommerce/single-product/short-description.php
+
 maya/woocommerce/loop/price.php
 
 ----------------------------------------
